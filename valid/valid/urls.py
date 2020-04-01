@@ -19,6 +19,6 @@ from registor import views as v
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path(" registor/", v.registor, name="registor"),
+    path("registor", v.registor, name="registor"),
     # path('', include('registor.urls')),
 ]

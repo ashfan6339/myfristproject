@@ -5,6 +5,11 @@ from django.contrib.auth.forms import UserCreationForm
 
 # Create your views here.
 def registor(response):
-    form = UserCreationForm()
-    return render(response,"templates/register.html",{"form":form})
+    if response.method == "POST":
+        form = UserCreationForm(response.POST)
+        if form.is_valid():
+            form.save()
+    else:
+        form = UserCreationForm()
+    return render(response,"register.html",{"form":form})
 
