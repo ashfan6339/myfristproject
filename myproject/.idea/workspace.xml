@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="54900552-0ad4-4deb-886c-0cbdb5baf48a" name="Default Changelist" comment="" />
+    <list default="true" id="54900552-0ad4-4deb-886c-0cbdb5baf48a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../sam/mail/.idea/mail.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../valid/.idea/dictionaries/shaik.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../valid/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../valid/templates/register.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/boards/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/boards/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sam/mypro/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../sam/mypro/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../valid/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../valid/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../valid/valid/de.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../valid/valid/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../valid/valid/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../valid/valid/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../valid/valid/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../valid/valid/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../valid/valid/views.py" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +29,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1YOF3fBsTfF71ANpe4V6rzBgaxm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -24,7 +42,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../valid" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -103,18 +121,18 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="503" y="55" key="#views/0.0.1536.824@0.0.1536.824" timestamp="1582896003189" />
-    <state x="549" y="171" key="FileChooserDialogImpl" timestamp="1584954930335">
+    <state x="549" y="171" key="FileChooserDialogImpl" timestamp="1585724545150">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="171" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1584954930335" />
+    <state x="549" y="171" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1585724545150" />
     <state x="279" y="58" key="SettingsEditor" timestamp="1584103964279">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="279" y="58" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1584103964279" />
-    <state x="477" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1584945976711">
+    <state x="477" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1585724511312">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="477" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1584945976711" />
+    <state x="477" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1585724511312" />
     <state x="473" y="46" width="590" height="732" key="find.popup" timestamp="1583142140991">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
