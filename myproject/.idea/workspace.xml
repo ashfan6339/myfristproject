@@ -2,19 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="54900552-0ad4-4deb-886c-0cbdb5baf48a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../sam/mail/.idea/mail.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../valid/.idea/dictionaries/shaik.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../valid/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../valid/templates/register.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/boards/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/boards/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sam/mypro/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../sam/mypro/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../valid/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../valid/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../valid/valid/de.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../valid/valid/models.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../valid/valid/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../valid/valid/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../valid/valid/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../valid/valid/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../valid/valid/views.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +31,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../valid" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
